@@ -1,0 +1,16 @@
+## Spring Boot local config
+*/application.yml
+*/application.properties
+
+### Build outputs
+dist/
+build/
+### IntelliJ
+.idea/
+.idea_modules/
+/out/
+*.iws
+*.iml
+
+### General editor/IDE files
+.vscode/
